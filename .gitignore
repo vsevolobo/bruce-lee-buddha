@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+.env
+
+# Android
+build/
+.gradle/
+.idea/
+
+# General
+*.log
+.DS_Store
