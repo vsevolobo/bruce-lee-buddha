@@ -1,0 +1,1 @@
+{"name": "bruce-lee-buddha", "version": "1.0.0", "description": "Proxy server using v2ray and express.", "main": "index.js", "scripts": { "start": "node index.js" }, "dependencies": { "express": "^4.18.1", "v2ray": "^4.45.2" }}
